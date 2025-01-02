@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alaura Geek | ArchyMan</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="estilos.css" />
+  </head>
+  <body>
+    <div class="app-content">
+      <header>
+        <div class="wrapper-header">
+          <div class="icon-logo-group">
+            <img
+              src="assets/img/heaart-8bits.png"
+              alt=""
+              class="logo-part"
+            /><img src="assets/img/heaart-8bits.png" alt="" class="logo-part" />
+            <img src="assets/img/heaart-8bits.png" alt="" class="logo-part" />
+          </div>
+          <div class="brand-site">
+            <p class="title-header">AlauraGeek</p>
+          </div>
+        </div>
+      </header>
+      <main>
+        <div class="wrapper-main">
+          <section class="products-grid">
+            <div class="grid-content">
+              <h1 class="grid-title">Productos</h1>
+              <div class="grid"></div>
+            </div>
+          </section>
+          <section class="asaide-form">
+            <div class="form-content">
+              <h1 class="form-title">Agrega un producto</h1>
+              <form class="form">
+                <div class="form-group">
+                  <label for="name">Nombre</label>
+                  <input
+                    type="text"
+                    name="name"
+                    id="name"
+                    placeholder="Ingresa el nombre del producto"
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="price">Precio</label>
+                  <input
+                    type="number"
+                    name="price"
+                    id="price"
+                    placeholder="Ingresa el precio del producto"
+                    step="0.01"
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="image">Imagen</label>
+                  <input
+                    type="url"
+                    name="image"
+                    id="url_image"
+                    placeholder="Ingresa la URL imagen del producto"
+                  />
+                </div>
+                <div class="buttons-actions-group">
+                  <input class="button primary-button send-form" type="submit"/>
+                  <button class="button secondary-button clean-form">
+                    Limpiar
+                  </button>
+                </div>
+              </form>
+            </div>
+          </section>
+          <div class="modal modal-api-status hidden">
+            <div class="modal-content">
+              <div class="modal-icon">
+                <span class="icon-content">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="32" height="32" stroke-width="1">
+                    <path d="M5 12l5 5l10 -10"></path>
+                  </svg>
+                </span>
+              </div>
+              <div class="modal-text">
+                <p class="modal-message">Producto agregado correctamente</p>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <div class="wrapper-footer">
+          <div class="footer-brand">
+            <div class="icon-logo-group">
+              <img
+                src="assets/img/heaart-8bits.png"
+                alt=""
+                class="logo-part"
+              /><img
+                src="assets/img/heaart-8bits.png"
+                alt=""
+                class="logo-part"
+              />
+              <img src="assets/img/heaart-8bits.png" alt="" class="logo-part" />
+            </div>
+            <div class="brand-site">
+              <p class="title-header">AlauraGeek</p>
+            </div>
+          </div>
+          <div class="author-brand">
+            <p class="made-by-text">DESARROLLADO POR:</p>
+            <a
+              href="https://www.linkedin.com/in/daniel-santiago-becerra-casas/"
+              target="_blank"
+              >SANTIAGO BECERRA</a
+            >
+          </div>
+          <div class="aulaura-brand">
+            <a href="https://www.aluracursos.com/formaciones" target="_blank">
+              ALAURA LATAM - 2024</a
+            >
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="js/index.js" type="module"></script>
+  </body>
+</html>

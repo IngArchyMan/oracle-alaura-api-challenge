@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luz LED Sable de Luz",
+      "price": 39.99,
+      "url_imagen": "https://m.media-amazon.com/images/I/61HfPL9+UTL._AC_SX679_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Figura de Acción Darth Vader",
+      "price": 24.99,
+      "url_imagen": "https://cdnx.jumpseller.com/hobbies-collectibles/image/28442501/resize/640/640?1665851807"
+    },
+    {
+      "id": 3,
+      "name": "Taza de Star Wars",
+      "price": 12.99,
+      "url_imagen": "https://ae-pic-a1.aliexpress-media.com/kf/Sbf2606a61e234c64ac2aef55dc8761dbL.jpg_960x960q75.jpg_.avif"
+    },
+    {
+      "id": 4,
+      "name": "Llavero Baby Yoda",
+      "price": 7.99,
+      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNs-5W_Iy-eAfrutrlno2FjKqmcSJlJ6brow&s"
+    },
+    {
+      "id": 5,
+      "name": "Camiseta Star Wars - Stormtrooper",
+      "price": 19.99,
+      "url_imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaCO/138674546_01/w=1500,h=1500,fit=pad"
+    },
+    {
+      "id": 6,
+      "name": "Funko Pop! Luke Skywalker",
+      "price": 15.99,
+      "url_imagen": "https://hobbycon.com.co/wp-content/uploads/2023/04/Star-Wars-Luke-594-Caja-Hobby-Con-Funko-Pop.webp"
+    },
+    {
+      "id": 7,
+      "name": "Póster de Star Wars - Clásico",
+      "price": 9.99,
+      "url_imagen": "https://m.media-amazon.com/images/I/81U7FW5aLjL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Reloj de Pared Star Wars",
+      "price": 29.99,
+      "url_imagen": "https://m.media-amazon.com/images/I/51FssRTAZwL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Botella de Agua Star Wars",
+      "price": 14.99,
+      "url_imagen": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8412497014323_1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Casco de Stormtrooper (Réplica)",
+      "price": 99.99,
+      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjR1cg7xjbkAbP0Aor-Li7WI444N9nZXaQw&s"
+    },
+    {
+      "id": 11,
+      "name": "Set de LEGO Star Wars - Millennium Falcon",
+      "price": 159.99,
+      "url_imagen": "https://http2.mlstatic.com/D_Q_NP_861926-CBT70305107448_072023-O.webp"
+    },
+    {
+      "id": 12,
+      "name": "Pelota de playa Star Wars",
+      "price": 9.99,
+      "url_imagen": "https://http2.mlstatic.com/D_NQ_NP_820026-CBT76170778121_052024-O.webp"
+    },
+    {
+      "id": 13,
+      "name": "Puzzle de Star Wars (1000 piezas)",
+      "price": 18.99,
+      "url_imagen": "https://http2.mlstatic.com/D_NQ_NP_905321-MLM46252144425_062021-O.webp"
+    },
+    {
+      "id": 14,
+      "name": "Figura de Acción Yoda",
+      "price": 22.99,
+      "url_imagen": "https://m.media-amazon.com/images/I/810YHtk1cXL.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Mochila Star Wars",
+      "price": 39.99,
+      "url_imagen": "https://www.primecomics.com.co/images/thumbnails/600/777/detailed/1/190371113130_4.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Almohada Baby Yoda",
+      "price": 19.99,
+      "url_imagen": "https://http2.mlstatic.com/D_NQ_NP_724848-MLU73024582156_112023-O.webp"
+    },
+    {
+      "id": 17,
+      "name": "Libro de Arte Star Wars",
+      "price": 29.99,
+      "url_imagen": "https://tiendateatral.com/31895-medium_default/libro-star-wars-la-historia-visual.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Gorra de Star Wars",
+      "price": 14.99,
+      "url_imagen": "https://tottobo.vteximg.com.br/arquivos/ids/278537-1000-1000/AJ60STW002-2320-Z32U_1.jpg?v=638335963530130000"
+    },
+    {
+      "id": 19,
+      "name": "Peluches Chewbacca",
+      "price": 25.99,
+      "url_imagen": "https://http2.mlstatic.com/D_NQ_NP_818898-MCO28382131965_102018-O.webp"
+    },
+    {
+      "id": 20,
+      "name": "Set de Copas Star Wars",
+      "price": 34.99,
+      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQpni-ZGjL21TEc2R79XSr_VP82ua-cBJQErDy6zXp3__oZfq_FmyFsChy_c93hQrH00&usqp=CAU"
+    },
+    {
+      "id": "91c5",
+      "name": "Saco tipo Uggly Swetter Star Wars",
+      "price": "24.95",
+      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrgMraWiqBfeOouc0gsoh9QG5kL_mCBtnnA&s"
+    }
+  ]
+}
